@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="H1-heuristic/H1-heuristic.vcxproj" Id="88b6f35e-573d-4d88-804c-f68760369f8d" />
+</Solution>

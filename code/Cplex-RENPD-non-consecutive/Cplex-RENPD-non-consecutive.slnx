@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cplex-RENPD-non-consecutive/Cplex-RENPD-non-consecutive.vcxproj" Id="383f1bc5-a8a4-4328-b2aa-44211f915eea" />
+</Solution>

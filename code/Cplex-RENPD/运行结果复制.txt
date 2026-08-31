@@ -1,0 +1,301 @@
+instance = 1
+upper bound = 113864.38 lower bound = 113854.93 time = 0.75 status = Optimal
+instance = 2
+upper bound = 136149.17 lower bound = 136135.56 time = 1.02 status = Optimal
+instance = 3
+upper bound = 131329.03 lower bound = 131315.91 time = 1.42 status = Optimal
+instance = 4
+upper bound = 139008.70 lower bound = 139002.80 time = 0.52 status = Optimal
+instance = 5
+upper bound = 123380.10 lower bound = 123372.27 time = 1.20 status = Optimal
+instance = 6
+upper bound = 143940.60 lower bound = 143930.18 time = 0.48 status = Optimal
+instance = 7
+upper bound = 140475.00 lower bound = 140460.96 time = 0.97 status = Optimal
+instance = 8
+upper bound = 123410.53 lower bound = 123398.19 time = 1.96 status = Optimal
+instance = 9
+upper bound = 144283.93 lower bound = 144269.51 time = 0.61 status = Optimal
+instance = 10
+upper bound = 129047.80 lower bound = 129036.51 time = 0.60 status = Optimal
+instance = 11
+upper bound = 255014.83 lower bound = 255012.65 time = 1.24 status = Optimal
+instance = 12
+upper bound = 235946.80 lower bound = 235930.16 time = 0.19 status = Optimal
+instance = 13
+upper bound = 266761.53 lower bound = 266745.42 time = 0.83 status = Optimal
+instance = 14
+upper bound = 263729.33 lower bound = 263702.97 time = 0.50 status = Optimal
+instance = 15
+upper bound = 268182.67 lower bound = 268155.88 time = 1.54 status = Optimal
+instance = 16
+upper bound = 257216.30 lower bound = 257194.51 time = 0.51 status = Optimal
+instance = 17
+upper bound = 300766.63 lower bound = 300743.66 time = 0.75 status = Optimal
+instance = 18
+upper bound = 271355.60 lower bound = 271332.58 time = 0.43 status = Optimal
+instance = 19
+upper bound = 270205.40 lower bound = 270178.38 time = 0.50 status = Optimal
+instance = 20
+upper bound = 257446.90 lower bound = 257431.02 time = 1.36 status = Optimal
+instance = 21
+upper bound = 387307.10 lower bound = 387271.62 time = 0.79 status = Optimal
+instance = 22
+upper bound = 387216.73 lower bound = 387178.17 time = 0.60 status = Optimal
+instance = 23
+upper bound = 375811.70 lower bound = 375778.21 time = 0.67 status = Optimal
+instance = 24
+upper bound = 382187.73 lower bound = 382166.84 time = 0.56 status = Optimal
+instance = 25
+upper bound = 355056.47 lower bound = 355028.77 time = 0.19 status = Optimal
+instance = 26
+upper bound = 399748.57 lower bound = 399720.40 time = 1.21 status = Optimal
+instance = 27
+upper bound = 398755.87 lower bound = 398728.90 time = 0.87 status = Optimal
+instance = 28
+upper bound = 389514.10 lower bound = 389477.47 time = 0.48 status = Optimal
+instance = 29
+upper bound = 401631.80 lower bound = 401595.43 time = 0.27 status = Optimal
+instance = 30
+upper bound = 414681.07 lower bound = 414640.80 time = 0.73 status = Optimal
+instance = 31
+upper bound = 551300.40 lower bound = 551274.52 time = 0.46 status = Optimal
+instance = 32
+upper bound = 588995.10 lower bound = 588952.09 time = 0.19 status = Optimal
+instance = 33
+upper bound = 550263.10 lower bound = 550225.53 time = 0.25 status = Optimal
+instance = 34
+upper bound = 515923.63 lower bound = 515884.20 time = 1.25 status = Optimal
+instance = 35
+upper bound = 577252.60 lower bound = 577241.03 time = 1.27 status = Optimal
+instance = 36
+upper bound = 549490.90 lower bound = 549436.18 time = 0.78 status = Optimal
+instance = 37
+upper bound = 526304.10 lower bound = 526261.56 time = 0.43 status = Optimal
+instance = 38
+upper bound = 558616.13 lower bound = 558609.81 time = 0.23 status = Optimal
+instance = 39
+upper bound = 506348.67 lower bound = 506316.36 time = 0.81 status = Optimal
+instance = 40
+upper bound = 527904.87 lower bound = 527861.15 time = 0.39 status = Optimal
+instance = 41
+upper bound = 624344.93 lower bound = 624290.96 time = 0.39 status = Optimal
+instance = 42
+upper bound = 659794.80 lower bound = 659765.51 time = 0.56 status = Optimal
+instance = 43
+upper bound = 721802.97 lower bound = 721761.36 time = 0.12 status = Optimal
+instance = 44
+upper bound = 695051.53 lower bound = 695000.13 time = 0.15 status = Optimal
+instance = 45
+upper bound = 656395.33 lower bound = 656329.70 time = 0.69 status = Optimal
+instance = 46
+upper bound = 726751.13 lower bound = 726678.48 time = 0.30 status = Optimal
+instance = 47
+upper bound = 727820.53 lower bound = 727770.28 time = 0.19 status = Optimal
+instance = 48
+upper bound = 629399.73 lower bound = 629337.20 time = 0.43 status = Optimal
+instance = 49
+upper bound = 691407.93 lower bound = 691369.68 time = 0.83 status = Optimal
+instance = 50
+upper bound = 618070.37 lower bound = 618018.63 time = 0.20 status = Optimal
+instance = 51
+upper bound = 120823.80 lower bound = 120811.77 time = 4.76 status = Optimal
+instance = 52
+upper bound = 120483.53 lower bound = 120471.49 time = 10.57 status = Optimal
+instance = 53
+upper bound = 126184.07 lower bound = 126171.45 time = 185.01 status = Optimal
+instance = 54
+upper bound = 151176.15 lower bound = 151161.03 time = 68.57 status = Optimal
+instance = 55
+upper bound = 119487.72 lower bound = 119475.77 time = 38.82 status = Optimal
+instance = 56
+upper bound = 164138.35 lower bound = 164121.94 time = 99.54 status = Optimal
+instance = 57
+upper bound = 147821.45 lower bound = 147806.67 time = 177.92 status = Optimal
+instance = 58
+upper bound = 150171.00 lower bound = 150155.98 time = 40.80 status = Optimal
+instance = 59
+upper bound = 134044.73 lower bound = 134031.33 time = 28.15 status = Optimal
+instance = 60
+upper bound = 119926.50 lower bound = 119914.51 time = 41.47 status = Optimal
+instance = 61
+upper bound = 238046.28 lower bound = 238022.48 time = 9.90 status = Optimal
+instance = 62
+upper bound = 315669.63 lower bound = 315648.61 time = 1.80 status = Optimal
+instance = 63
+upper bound = 267696.70 lower bound = 267669.95 time = 5.91 status = Optimal
+instance = 64
+upper bound = 228050.98 lower bound = 228028.18 time = 186.95 status = Optimal
+instance = 65
+upper bound = 231675.68 lower bound = 231652.52 time = 7.84 status = Optimal
+instance = 66
+upper bound = 241188.90 lower bound = 241164.78 time = 49.79 status = Optimal
+instance = 67
+upper bound = 305935.87 lower bound = 305917.61 time = 1.27 status = Optimal
+instance = 68
+upper bound = 281899.37 lower bound = 281880.82 time = 2.03 status = Optimal
+instance = 69
+upper bound = 234261.98 lower bound = 234248.63 time = 6.77 status = Optimal
+instance = 70
+upper bound = 262004.07 lower bound = 261953.66 time = 300.04 status = Feasible
+instance = 71
+upper bound = 357070.42 lower bound = 357036.39 time = 17.77 status = Optimal
+instance = 72
+upper bound = 411746.82 lower bound = 411741.68 time = 2.24 status = Optimal
+instance = 73
+upper bound = 432506.35 lower bound = 432463.10 time = 3.55 status = Optimal
+instance = 74
+upper bound = 430887.33 lower bound = 430844.36 time = 4.83 status = Optimal
+instance = 75
+upper bound = 394589.78 lower bound = 394561.91 time = 9.59 status = Optimal
+instance = 76
+upper bound = 382025.25 lower bound = 381998.48 time = 4.15 status = Optimal
+instance = 77
+upper bound = 360655.93 lower bound = 360619.87 time = 21.52 status = Optimal
+instance = 78
+upper bound = 429024.08 lower bound = 428983.63 time = 15.13 status = Optimal
+instance = 79
+upper bound = 390466.53 lower bound = 390445.57 time = 6.96 status = Optimal
+instance = 80
+upper bound = 418841.05 lower bound = 418806.90 time = 3.98 status = Optimal
+instance = 81
+upper bound = 598119.15 lower bound = 598074.85 time = 4.70 status = Optimal
+instance = 82
+upper bound = 650652.27 lower bound = 650591.70 time = 8.65 status = Optimal
+instance = 83
+upper bound = 569568.63 lower bound = 569511.68 time = 10.20 status = Optimal
+instance = 84
+upper bound = 577836.57 lower bound = 577813.69 time = 2.37 status = Optimal
+instance = 85
+upper bound = 594803.70 lower bound = 594770.23 time = 6.16 status = Optimal
+instance = 86
+upper bound = 547885.40 lower bound = 547832.10 time = 230.03 status = Optimal
+instance = 87
+upper bound = 574904.00 lower bound = 574847.84 time = 4.27 status = Optimal
+instance = 88
+upper bound = 544216.78 lower bound = 544179.61 time = 3.64 status = Optimal
+instance = 89
+upper bound = 515094.35 lower bound = 515047.69 time = 5.14 status = Optimal
+instance = 90
+upper bound = 577210.68 lower bound = 577159.75 time = 0.97 status = Optimal
+instance = 91
+upper bound = 637049.85 lower bound = 637003.58 time = 3.18 status = Optimal
+instance = 92
+upper bound = 721543.77 lower bound = 721475.46 time = 7.41 status = Optimal
+instance = 93
+upper bound = 781843.53 lower bound = 781780.81 time = 1.03 status = Optimal
+instance = 94
+upper bound = 737388.00 lower bound = 737331.76 time = 2.04 status = Optimal
+instance = 95
+upper bound = 641129.02 lower bound = 641079.74 time = 2.49 status = Optimal
+instance = 96
+upper bound = 634346.17 lower bound = 634284.70 time = 8.56 status = Optimal
+instance = 97
+upper bound = 660969.73 lower bound = 660909.52 time = 8.26 status = Optimal
+instance = 98
+upper bound = 697130.13 lower bound = 697063.50 time = 75.64 status = Optimal
+instance = 99
+upper bound = 548929.62 lower bound = 548896.48 time = 4.23 status = Optimal
+instance = 100
+upper bound = 577035.48 lower bound = 576981.89 time = 10.13 status = Optimal
+instance = 101
+upper bound = 174731.07 lower bound = 174521.51 time = 300.04 status = Feasible
+instance = 102
+upper bound = 162830.43 lower bound = 162488.86 time = 300.91 status = Feasible
+instance = 103
+upper bound = 185634.78 lower bound = 185577.18 time = 300.04 status = Feasible
+instance = 104
+upper bound = 149855.58 lower bound = 149809.89 time = 300.04 status = Feasible
+instance = 105
+upper bound = 153265.05 lower bound = 153086.59 time = 300.05 status = Feasible
+instance = 106
+upper bound = 120498.12 lower bound = 119909.35 time = 304.42 status = Feasible
+instance = 107
+upper bound = 141367.92 lower bound = 141100.52 time = 300.04 status = Feasible
+instance = 108
+upper bound = 171414.23 lower bound = 171289.35 time = 300.06 status = Feasible
+instance = 109
+upper bound = 122187.32 lower bound = 122087.60 time = 300.08 status = Feasible
+instance = 110
+upper bound = 196073.25 lower bound = 195506.70 time = 300.06 status = Feasible
+instance = 111
+upper bound = 253968.15 lower bound = 253615.71 time = 300.06 status = Feasible
+instance = 112
+upper bound = 293210.43 lower bound = 293094.23 time = 300.07 status = Feasible
+instance = 113
+upper bound = 220446.35 lower bound = 220250.12 time = 300.06 status = Feasible
+instance = 114
+upper bound = 290982.48 lower bound = 290827.31 time = 300.05 status = Feasible
+instance = 115
+upper bound = 228522.08 lower bound = 227987.36 time = 300.05 status = Feasible
+instance = 116
+upper bound = 300306.25 lower bound = 299874.74 time = 300.06 status = Feasible
+instance = 117
+upper bound = 282162.78 lower bound = 281569.84 time = 312.57 status = Feasible
+instance = 118
+upper bound = 342189.40 lower bound = 341911.56 time = 300.05 status = Feasible
+instance = 119
+upper bound = 278722.30 lower bound = 278579.28 time = 300.05 status = Feasible
+instance = 120
+upper bound = 222632.47 lower bound = 222334.17 time = 303.91 status = Feasible
+instance = 121
+upper bound = 341499.48 lower bound = 341036.43 time = 303.90 status = Feasible
+instance = 122
+upper bound = 500018.73 lower bound = 499968.73 time = 49.11 status = Optimal
+instance = 123
+upper bound = 415483.90 lower bound = 415442.35 time = 13.12 status = Optimal
+instance = 124
+upper bound = 493826.18 lower bound = 493674.24 time = 300.06 status = Feasible
+instance = 125
+upper bound = 453338.07 lower bound = 453203.96 time = 300.07 status = Feasible
+instance = 126
+upper bound = 471798.60 lower bound = 471548.19 time = 300.06 status = Feasible
+instance = 127
+upper bound = 353411.62 lower bound = 353358.73 time = 300.11 status = Feasible
+instance = 128
+upper bound = 419259.17 lower bound = 419132.62 time = 300.06 status = Feasible
+instance = 129
+upper bound = 406201.40 lower bound = 406053.11 time = 300.07 status = Feasible
+instance = 130
+upper bound = 430581.77 lower bound = 430555.84 time = 248.13 status = Optimal
+instance = 131
+upper bound = 708684.53 lower bound = 708320.13 time = 303.10 status = Feasible
+instance = 132
+upper bound = 648772.48 lower bound = 648713.75 time = 53.01 status = Optimal
+instance = 133
+upper bound = 456725.75 lower bound = 456680.08 time = 40.46 status = Optimal
+instance = 134
+upper bound = 629340.80 lower bound = 629278.86 time = 91.23 status = Optimal
+instance = 135
+upper bound = 474303.87 lower bound = 474284.80 time = 5.67 status = Optimal
+instance = 136
+upper bound = 543319.43 lower bound = 543004.91 time = 304.34 status = Feasible
+instance = 137
+upper bound = 483194.17 lower bound = 483124.79 time = 301.62 status = Feasible
+instance = 138
+upper bound = 612132.32 lower bound = 612041.48 time = 301.52 status = Feasible
+instance = 139
+upper bound = 513261.65 lower bound = 513056.33 time = 301.62 status = Feasible
+instance = 140
+upper bound = 567856.15 lower bound = 567803.95 time = 10.20 status = Optimal
+instance = 141
+upper bound = 659998.92 lower bound = 659935.03 time = 43.70 status = Optimal
+instance = 142
+upper bound = 761494.60 lower bound = 761386.74 time = 303.79 status = Feasible
+instance = 143
+upper bound = 766703.60 lower bound = 766608.91 time = 303.43 status = Feasible
+instance = 144
+upper bound = 722025.95 lower bound = 721953.75 time = 8.69 status = Optimal
+instance = 145
+upper bound = 644403.13 lower bound = 644325.15 time = 302.12 status = Feasible
+instance = 146
+upper bound = 726866.12 lower bound = 726796.22 time = 208.24 status = Optimal
+instance = 147
+upper bound = 542649.67 lower bound = 542595.42 time = 34.30 status = Optimal
+instance = 148
+upper bound = 746071.65 lower bound = 745984.59 time = 300.06 status = Feasible
+instance = 149
+upper bound = 672727.47 lower bound = 672668.91 time = 10.68 status = Optimal
+instance = 150
+upper bound = 711525.47 lower bound = 711454.60 time = 34.33 status = Optimal
+procedure is over!

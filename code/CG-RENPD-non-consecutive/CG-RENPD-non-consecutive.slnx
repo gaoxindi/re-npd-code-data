@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CG-RENPD-non-consecutive/CG-RENPD-non-consecutive.vcxproj" Id="bce1e75a-5ea8-4f00-9964-8f2511f587c0" />
+</Solution>
