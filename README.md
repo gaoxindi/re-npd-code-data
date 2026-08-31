@@ -7,8 +7,9 @@ This repository provides the code and data used in the computational experiments
 ### Code
 
 - `CG-RENPD`: Column-generation-based heuristic for Problem RE-NPD.
-- `Cplex-RENPD`: Direct CPLEX benchmark for Problem RE-NPD.
+- `Cplex-RENPD`: CPLEX benchmark for Problem RE-NPD.
 - `CG-RENPD-non-consecutive`: Column-generation-based heuristic for instances with finite and non-consecutive shipping modes.
+- `Cplex-RENPD-non-consecutive`: CPLEX benchmark for instances with finite and non-consecutive shipping modes.
 - `H1-heuristic`: Heuristic H1 used as a practical benchmark.
 
 ### Data
@@ -27,7 +28,7 @@ The data files should be used with the corresponding code projects as follows.
 | `data-small-scale.zip` | Online Appendix C.1 | `CG-RENPD`, `Cplex-RENPD` |
 | `data-large-scale.zip` | Online Appendix C.1 | `CG-RENPD`, `Cplex-RENPD` |
 | `data-sensitivity-analysis.zip` | Online Appendix C.2 | `CG-RENPD-non-consecutive` |
-| `data-practical-instance.zip` | Section 6.3.1 | `CG-RENPD-non-consecutive`, `Cplex-RENPD`, `H1-heuristic` |
+| `data-practical-instance.zip` | Section 6.3.1 | `CG-RENPD-non-consecutive`, `Cplex-RENPD-non-consecutive`, `H1-heuristic` |
 
 After downloading a data file, unzip it and use the folder containing the `instance*.txt` files as the input instance directory.
 
